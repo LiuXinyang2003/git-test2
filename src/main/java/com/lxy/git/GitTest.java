@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("jfiodsoif");
         System.out.println("小心！");
+        System.out.println("僵王！");
     }
 }
